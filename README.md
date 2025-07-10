@@ -61,3 +61,11 @@
 
 *Thanks for visiting! 🚀 Let's build something awesome together.* 
 
+<!-- ### 📌 Featured Projects
+
+> A few cool things I've worked on or building currently (more on my [profile](https://github.com/Jayesh-Prajapati9)):
+
+- 🚜 **Smart Farming App** — Soil analysis + crop health using sensor data  
+- 🧠 **AI Document Scanner** — OCR + LLM summary using Google Vision API  
+- 🌐 **Web3 Wallet Dashboard** — Ethereum + Solidity + React + Vite  
+- 📚 **Code Snippet Vault** — My personal knowledge base (soon public) -->
