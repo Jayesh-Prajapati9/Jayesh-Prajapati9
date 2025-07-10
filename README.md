@@ -54,7 +54,7 @@
 
 <p>
   <a href="https://linkedin.com/in/jayesh-prajapati9" target="_blank"><img src="https://img.shields.io/badge/-Jayesh%20Prajapati-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:jayeshprajapati0104@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jayeshprajapati.0904@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
