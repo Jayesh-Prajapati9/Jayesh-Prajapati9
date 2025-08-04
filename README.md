@@ -47,6 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Prajapati9&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
   <img src="https://streak-stats.demolab.com/?user=Jayesh-Prajapati9&theme=github-dark-blue&hide_border=true" width="47%" alt='github stats' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Prajapati9&layout=compact&theme=github_dark&hide_border=true" width="37%" alt='languages' />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Prajapati9&theme=algolia" width="100%" alt='github stats' />
+<!--   <img src="https://raw.githubusercontent.com/Jayesh-Prajapati9/Jayesh-Prajapati9/main/metrics.plugin.followup.indepth.svg" width="100%" /> -->
+  
+
+
 </p>
 
 ---
