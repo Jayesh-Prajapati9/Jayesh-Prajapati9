@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **Web3**, **AI/LLMs**, and **System-Level Programming**  
 - 🧠 Believer in **lifelong learning** and building in public
 - 📫 Reach me at: **jayeshprajapati.0904@gmail.com**  
-<!-- - 🌐 Portfolio & Projects: [jayesh-prajapati9.github.io](https://jayesh-prajapati9.github.io)  -->
+- 🌐 Portfolio: [Jayesh Prajapati](https://portfolio-one-bay-14.vercel.app/)
 
 --- 
 
